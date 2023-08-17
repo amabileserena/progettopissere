@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="intellij_forms_rt_src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libreria/intellij_forms_rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/jgoodies-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/jgoodies-forms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/miglayout-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/miglayout-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Libreria/jgoodies-common-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/jgoodies-forms-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/miglayout-core-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/miglayout-swing-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Libreria/intellij_forms_rt_src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/jgoodies-common-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/jgoodies-forms-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/miglayout-core-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Libreria/miglayout-swing-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
