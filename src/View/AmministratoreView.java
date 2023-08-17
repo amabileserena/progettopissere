@@ -79,10 +79,10 @@ public class AmministratoreView extends JFrame implements ActionListener {
 
     // Il resto del codice per la gestione degli eventi dei pulsanti e l'interazione con il database rimane invariato.
 
-   public static void main(String[] args) {
+   /*public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             new AmministratoreView();
         });
-    }
+    }*/
 }
 

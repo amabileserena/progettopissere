@@ -1126,11 +1126,11 @@ public class ArticoloView extends JFrame implements ActionListener {
 
     // Il resto del codice per la gestione degli eventi e l'interazione con il database rimane invariato.
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             new ArticoloView();
         });
-    }
+    }*/
 }
 
 
